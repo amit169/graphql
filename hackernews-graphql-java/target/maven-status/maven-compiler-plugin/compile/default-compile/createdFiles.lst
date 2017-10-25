@@ -1,0 +1,5 @@
+com/howtographql/hackernews/Link.class
+com/howtographql/hackernews/Query.class
+com/howtographql/hackernews/LinkRepository.class
+com/howtographql/hackernews/Mutation.class
+com/howtographql/hackernews/GraphQLEndpoint.class
