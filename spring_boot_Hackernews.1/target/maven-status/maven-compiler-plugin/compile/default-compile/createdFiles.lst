@@ -1,0 +1,5 @@
+com/howtographql/hackernews/LinkFilter.class
+com/howtographql/hackernews/Link.class
+com/howtographql/hackernews/LinkRepository.class
+com/howtographql/hackernews/LinkController.class
+com/howtographql/Application.class
